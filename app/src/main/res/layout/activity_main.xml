@@ -10,10 +10,9 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:layout_width="match_parent"
-        android:layout_height="600dp"
+        android:layout_height="500dp"
         android:id="@+id/chat"
         >
-
     </ListView>
     <EditText
         android:id="@+id/edt_txt"
